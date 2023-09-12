@@ -2,7 +2,7 @@ import ClassComponent from "./ClassComponent";
 const PostsWithComments = () =>{ 
   return(
 
-    <div className="post" style={{backgroundColor:"red"}}>
+    <div className="post" style={{backgroundColor:"green"}}>
       hello
       <ClassComponent/>
     </div>
